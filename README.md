@@ -29,7 +29,7 @@ To obtain a position as a developer, where I can strive for excellence in my wor
   My Github Stats: 
   <p align='center'>
   <img src="https://github-readme-stats.vercel.app/api?username=Gargi-123&theme=dark&show_icons=true&count_private=true" height="207px" /> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gargi-123&theme=dark"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gargi-123&theme=dark" height="207px" />
 
 </P>
 
