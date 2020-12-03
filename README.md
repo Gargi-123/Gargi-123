@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi <span><img width="50px" height="50px" src="https://media1.giphy.com/media/PjgnBBmpk2iwhv1IO6/200w.webp?cid=ecf05e47zcb0thagktxj6xoag3zisvcm92z1mgwr8hirvmcj&rid=200w.webp" /></span>, I'm Gargi Das</h1>
+<h1 align="center">Hi :wave:, I'm Gargi Das</h1>
 
 <h3 align="center">A Mern Stack Developer from <span>
   <img height="30px" width="30px" src=https://user-images.githubusercontent.com/59872807/89734872-6a279400-da7c-11ea-891e-86ef7e7cf071.jpg>
